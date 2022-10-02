@@ -1,0 +1,16 @@
+C:\Users\dev\source\repos\GraphicsParser\GraphicsParser\bin\Debug\graphics.txt
+C:\Users\dev\source\repos\GraphicsParser\GraphicsParser\bin\Debug\GraphicsParser.exe.config
+C:\Users\dev\source\repos\GraphicsParser\GraphicsParser\bin\Debug\GraphicsParser.exe
+C:\Users\dev\source\repos\GraphicsParser\GraphicsParser\bin\Debug\GraphicsParser.pdb
+C:\Users\dev\source\repos\GraphicsParser\GraphicsParser\obj\Debug\GraphicsParser.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\GraphicsParser\GraphicsParser\obj\Debug\GraphicsParser.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\GraphicsParser\GraphicsParser\obj\Debug\GraphicsParser.exe
+C:\Users\dev\source\repos\GraphicsParser\GraphicsParser\obj\Debug\GraphicsParser.pdb
+D:\_ lap trinh windows\GraphicsParser\GraphicsParser\bin\Debug\graphics.txt
+D:\_ lap trinh windows\GraphicsParser\GraphicsParser\bin\Debug\GraphicsParser.exe.config
+D:\_ lap trinh windows\GraphicsParser\GraphicsParser\bin\Debug\GraphicsParser.exe
+D:\_ lap trinh windows\GraphicsParser\GraphicsParser\bin\Debug\GraphicsParser.pdb
+D:\_ lap trinh windows\GraphicsParser\GraphicsParser\obj\Debug\GraphicsParser.csprojAssemblyReference.cache
+D:\_ lap trinh windows\GraphicsParser\GraphicsParser\obj\Debug\GraphicsParser.csproj.CoreCompileInputs.cache
+D:\_ lap trinh windows\GraphicsParser\GraphicsParser\obj\Debug\GraphicsParser.exe
+D:\_ lap trinh windows\GraphicsParser\GraphicsParser\obj\Debug\GraphicsParser.pdb

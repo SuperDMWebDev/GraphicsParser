@@ -1,0 +1,2 @@
+D:\_ lap trinh windows\GraphicsParser\GraphicsParser\obj\Release\GraphicsParser.csprojAssemblyReference.cache
+D:\_ lap trinh windows\GraphicsParser\GraphicsParser\obj\Release\GraphicsParser.csproj.CoreCompileInputs.cache

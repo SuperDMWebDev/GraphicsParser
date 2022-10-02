@@ -1,0 +1,5 @@
+D:\_ lap trinh windows\GraphicsParser\Contract\bin\Debug\Contract.dll
+D:\_ lap trinh windows\GraphicsParser\Contract\bin\Debug\Contract.pdb
+D:\_ lap trinh windows\GraphicsParser\Contract\obj\Debug\Contract.csproj.CoreCompileInputs.cache
+D:\_ lap trinh windows\GraphicsParser\Contract\obj\Debug\Contract.dll
+D:\_ lap trinh windows\GraphicsParser\Contract\obj\Debug\Contract.pdb
